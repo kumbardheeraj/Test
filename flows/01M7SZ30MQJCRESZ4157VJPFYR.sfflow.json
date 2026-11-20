@@ -1,0 +1,15 @@
+{
+  "format" : "streamfusion-flow",
+  "version" : 1,
+  "name" : "01M7SZ30MQJCRESZ4157VJPFYR",
+  "includeNodeData" : false,
+  "nodes" : [ {
+    "id" : "01M7SZ3Q9H0REKBKRGMFQ92SVA",
+    "operationId" : "01KTCD3VEPF2HFZ855DJY4FXRF",
+    "operationFolderName" : "CsvParser",
+    "category" : "Step",
+    "x" : 275.0,
+    "y" : 53.0
+  } ],
+  "links" : [ ]
+}
