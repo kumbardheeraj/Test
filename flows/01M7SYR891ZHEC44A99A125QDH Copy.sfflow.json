@@ -33,20 +33,6 @@
     "x" : 966.0,
     "y" : 106.00956726074219
   }, {
-    "id" : "01M84AV3TRS44VWJ9ZC0K8S1Y9",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 596.0,
-    "y" : 436.0
-  }, {
-    "id" : "01M84AV3TRGYEXJV38FFT14027",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 1082.0,
-    "y" : 462.0
-  }, {
     "id" : "01M84AV3TRKBJKR65YHAEA8PQP",
     "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
     "operationFolderName" : "SchedulerOperation",
@@ -60,13 +46,6 @@
     "category" : "Trigger",
     "x" : 1016.0,
     "y" : 560.0
-  }, {
-    "id" : "01M84AV3TR3J0YA1X87EDYF4KZ",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 55.0,
-    "y" : 280.0
   }, {
     "id" : "01M84AW49QN1DFF7Q5TJTQS6KR",
     "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
