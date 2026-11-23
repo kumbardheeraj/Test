@@ -47,13 +47,6 @@
     "x" : 1082.0,
     "y" : 462.0
   }, {
-    "id" : "01M84AV3TRV7PCK7NNXCP2EK40",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 870.0,
-    "y" : 230.0
-  }, {
     "id" : "01M84AV3TRKBJKR65YHAEA8PQP",
     "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
     "operationFolderName" : "SchedulerOperation",
