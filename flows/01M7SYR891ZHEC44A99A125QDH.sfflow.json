@@ -1,0 +1,29 @@
+{
+  "format" : "streamfusion-flow",
+  "version" : 1,
+  "name" : "01M7SYR891ZHEC44A99A125QDH",
+  "includeNodeData" : false,
+  "nodes" : [ {
+    "id" : "01M8485FQJA1ADWCKKH15XV68M",
+    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
+    "operationFolderName" : "SchedulerOperation",
+    "category" : "Trigger",
+    "x" : 66.0,
+    "y" : 189.0
+  }, {
+    "id" : "01M848SR9XTX1JG9ERY9WZ7KBR",
+    "operationId" : "01K5VEZKRQ9J5RMREKEYKMCQZV",
+    "operationFolderName" : "SmtpSendEmail",
+    "category" : "Step",
+    "x" : 884.0,
+    "y" : 253.0
+  }, {
+    "id" : "01M848X6N8EY12P93S0HKDTJN7",
+    "operationId" : "01KWET5C7C0SYK1PVWKVTHGSZ1",
+    "operationFolderName" : "PostgreSQLDatabase",
+    "category" : "Step",
+    "x" : 355.0,
+    "y" : 510.0
+  } ],
+  "links" : [ ]
+}
