@@ -11,48 +11,6 @@
     "name" : "Test csv",
     "x" : 158.0,
     "y" : 124.0
-  }, {
-    "id" : "01M84AV3TR4024VXNXNQEM3MKB",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 233.0,
-    "y" : 454.0
-  }, {
-    "id" : "01M84AV3TR9332TA3EWV4XNAHT",
-    "operationId" : "01KTCDFF4JS0HW8BKET8ZKHYVF",
-    "operationFolderName" : "AvroParser",
-    "category" : "Step",
-    "x" : 534.0,
-    "y" : 111.0
-  }, {
-    "id" : "01M84AV3TR0621W3QXSTF5ZSDM",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 966.0,
-    "y" : 106.00956726074219
-  }, {
-    "id" : "01M84AV3TRKBJKR65YHAEA8PQP",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 551.0,
-    "y" : 601.0
-  }, {
-    "id" : "01M84AV3TR3X971BADAV4A2EAP",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 1016.0,
-    "y" : 560.0
-  }, {
-    "id" : "01M84AW49QN1DFF7Q5TJTQS6KR",
-    "operationId" : "01JZ60JJGRX1G95WQJYPPMNCAG",
-    "operationFolderName" : "SchedulerOperation",
-    "category" : "Trigger",
-    "x" : 580.0,
-    "y" : 640.0
   } ],
   "links" : [ ]
 }
